@@ -7,5 +7,5 @@
 * The code includes three different clustering algorithms; k-means, single linkage, and complete linkage.
 * The algorithms are tried for different cluster numbers (k). 
 * The algorithms are tried for 2-dimensional data in the clustering_toy_data.csv.
-* The verifying dataset 'clustering_toy_data.csv' is in the data folder.
+* The verifying dataset 'clustering_toy_data.csv' is in the 'data' folder.
 * The code includes comments on the results.
