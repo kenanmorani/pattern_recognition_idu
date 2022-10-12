@@ -1,4 +1,5 @@
 # pattern_recognition_idu
+The codes are aolutions to assignments for a course at Izmir Democracy University.
 # The Codes
 ### PCA&LDA_on_IRIS_dataset.ipynb:                                                                                
 * The code builds two classes; Principle Component Analysis class and Linear Disciminant Analysis class as two demintionality reduction methods. 
