@@ -1,4 +1,4 @@
-# pattern_recognition_idu
+# Introduction
 The codes are aolutions to assignments for a course at Izmir Democracy University.
 # The Codes
 ### PCA&LDA_on_IRIS_dataset.ipynb:                                                                                
